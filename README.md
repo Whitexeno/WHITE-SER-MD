@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/kpO2roA.jpeg.png" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=WHITE-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=WHITE-BOT+WHATSAPP+BOT" ="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-WHITE SER-red.svg?style=for-the-badge&logo=github"></a>
