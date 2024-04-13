@@ -1,11 +1,11 @@
-const sessionName = "dreaded1";
+const sessionName = "white ser1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 let botname = process.env.BOTNAME || 'WHITE_𝐀𝐈';
 
 const owner = process.env.DEV || '918138898059'; // This will send a notification once the bot reconnects
 const {
-  default: dreadedConnect,
+  default: whiteConnect,
   useMultiFileAuthState,
   DisconnectReason,
   fetchLatestBaileysVersion,
