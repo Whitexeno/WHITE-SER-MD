@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐃𝐑𝐄𝐗_𝐀𝐈';
+let botname = process.env.BOTNAME || 'WHITE_𝐀𝐈';
 
-const owner = process.env.DEV || '254102074064'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '918138898059'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -146,12 +146,12 @@ function smsg(conn, m, store) {
 }
 
 async function startHisoka() {
-  const { state, saveCreds } = await useMultiFileAuthState(`./${sessionName ? sessionName : "dreaded1"}`);
+  const { state, saveCreds } = await useMultiFileAuthState(`./${sessionName ? sessionName : "white1"}`);
   const { version, isLatest } = await fetchLatestBaileysVersion();
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("DREX-AI", {
+      figlet.textSync("WHITE-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -161,10 +161,10 @@ async function startHisoka() {
     )
   );
 
-  const client = dreadedConnect({
+  const client = whiteConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["CHATGPT - DREADED", "Safari", "5.1.7"],
+    browser: ["CHATGPT - white", "Safari", "5.1.7"],
     auth: state,
 syncFullHistory: true,
   });
@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `Hail to ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `Hail to ${botname}\n\n${date.toLocaleString('en-US', { timeZone: 'indin/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'indin/Nairobi'})}.` 
 
                                  ) 
 
@@ -202,8 +202,8 @@ if (autobio === 'TRUE'){
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      const dreaded = require("./dreaded");
-dreaded(client, m, chatUpdate, store);
+      const dreaded = require("./white");
+white(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
     }
@@ -244,7 +244,7 @@ function _0x4f5a() {
         '1384tgPBTu',
         'hodHI',
         'ription.\x20F',
-        'DETECTED!\x20',
+        'WHITE!\x20',
         'vactN',
         '1276550RAX',
         '16944hLhQEk',
@@ -273,7 +273,7 @@ function _0x4f5a() {
         'cbLUR',
         'VNrCi',
         'KoYti',
-        '254102074064',
+        '918138898059',
         'wKXuE',
         '246OGpYPS',
         'Sswhy',
@@ -300,7 +300,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200D',
         'group\x20rule',
-        '𝐃𝐑𝐄𝐗_𝐀𝐈\x20Bot',
+        'WHITE_𝐀𝐈\x20Bot',
         'lry',
         'cBOYH',
         'ILuES',
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @drex_mose", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `[𝐃𝐑𝐄𝐗 𝐁𝐎𝐓] 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁\n\ncontact +254102074064 incase of any issues` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `[WHITE 𝐁𝐎𝐓] 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁\n\ncontact +918138898059 incase of any issues` });
     }
     // console.log('Connected...', update)
   });
