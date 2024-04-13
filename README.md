@@ -1,6 +1,6 @@
 # WHITE SER MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WHITE+SER;A+WHATSAPP+BOT;CREATED+BY+WHITE+SER'' ="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WHITE+SER;A+WHATSAPP+BOT;CREATED+BY+WHITE+SER'' "Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -16,18 +16,18 @@
 <a href="'https://wa.me/918138898059yoh+ALIVE +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/918138898059yoh+ALIVE⸼ +nishow+venye+nitadeploy+drex-ai'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/918138898059yoh+ALIVE⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/WHITE SER MD/WHITE-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/WHITE SER MD/WHITE-ai?color=yellow&style=flat-square"></a>
-<a href="https://github.com/WHITE SER MD/WHITE-ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WHITE SER MD/WHITE-ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/WHITE SER MD/WHITE-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/whutexeno/WHITE-SER-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/wuitexeno/WHITE-SER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WHITE SER MD/WHITE-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/WHITE SER MD/WHITE-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/drexmose/drex-ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/drexmose/drex-ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
-***Made on Earth by 𝐃𝐫𝐞𝐱 𝐌𝐨𝐬𝐞***
+***Made on Earth by 𝘞𝘏𝘐𝘛𝘌 𝘚𝘌𝘙***
 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/WHITE/SER)***
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whitexeno/WHITE-SER-MD)***
 
 ## FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
