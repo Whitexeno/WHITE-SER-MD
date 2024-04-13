@@ -16,11 +16,11 @@
 <a href="'https://wa.me/918138898059yoh+ALIVE +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/918138898059yoh+ALIVE⸼ +nishow+venye+nitadeploy+drex-ai'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/918138898059yoh+ALIVE⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/WHITE SER MD/WHITE-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/whutexeno/WHITE-SER-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/wuitexeno/WHITE-SER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WHITE SER MD/WHITE-ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/WHITE SER MD/WHITE-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/whitexeno/WHITE-SER-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/whitexeno/WHITE-SER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WHITE SER MD/WHITE-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/WHITE SER MD/WHITE-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/drexmose/drex-ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/drexmose/drex-ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whutexeno/WHITE-SER-MD-ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/whitexeno/WHITE-SER-MD-ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -50,11 +50,10 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 <h2 align="center">   
 
 
-
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/WHITE/WHITES -ai/fork)
+- Fork this repo by tapping  [here](https://github.com/whiexeno/WHITE-SER-MD-/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -71,13 +70,13 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/918138898059) via WhatsApp or [here](sathansathan140@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/918138898059) via WhatsApp or [here]@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://https://github.com/whitexeno/CWHITE-SER-MD/blob/main/LICENSE
+[MIT License](https://https://github.com/whitexeno/WHITE-SER-MD/blob/main/LICENSE
 Copyright (c) 2024 WHITE SER MD®
 
