@@ -17,7 +17,7 @@ const { fetchUrl, isUrl, processTime } = require("./lib/dreadfunc");
 const { TelegraPh, UploadFileUgu, webp2mp4File, floNime } = require('./lib/dreadupload');
 const { Configuration, OpenAIApi } = require("openai");
 let setting = process.env.AI; 
-const { smsg, formatp, tanggal, formatDate, getTime,  sleep, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/dreadfunc');
+const { smsg, formatp, tanggal, formatDate, getTime,  sleep, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/whitefunc');
 const { exec, spawn, execSync } = require("child_process");
 module.exports = dreaded = async (client, m, chatUpdate, store) => {
   try {
@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'DREX AI';
+const botname = process.env.BOTNAME || 'WHITE AI';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -79,19 +79,19 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐃𝐑𝐄𝐗_𝐀𝐈';
-    const packname = process.env.STICKER_PACKNAME || 'Drex';
-const dev = process.env.DEV || '254102074064'
+    const author = process.env.STICKER_AUTHOR ||'WHITE_𝐀𝐈';
+    const packname = process.env.STICKER_PACKNAME || 'White';
+const dev = process.env.DEV || '918138898059'
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
    const bad = process.env.BAD_WORD || 'fuck';
     const autoread = process.env.AUTOREAD || 'TRUE';
     const badword = bad.split(",");
-    const thum = fs.readFileSync ('./𝐃𝐑𝐄𝐗_𝐀𝐈.jpg');	  
+    const thum = fs.readFileSync ('./WHITE_𝐀𝐈.jpg');	  
     const Owner = DevDreaded.map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender);
     const viewOnceMessage = args.join(" ");
-    const fcontact = { key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { 'contactMessage': { 'displayName': `𝐃𝐑𝐄𝐗 𝐁𝐎𝐓`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;DrexBot,;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': { url: 'https://telegra.ph/file/00c44dbca471eff754425.png' }}}}
+    const fcontact = { key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { 'contactMessage': { 'displayName': 'WHITE 𝐁𝐎𝐓`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;whiteBot,;;;\nFN:${pushname},\nitem1.TEL;waid=${sender.split('@')[0]}:${sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': { url: 'https://telegra.ph/file/00c44dbca471eff754425.png' }}}}
        // Group
     const groupMetadata = m.isGroup ? await client.groupMetadata(m.chat).catch((e) => {}) : "";
     const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
@@ -192,7 +192,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐃𝐑𝐄𝐗 𝐁𝐎𝐓\x20an',
+        'WHITE 𝐁𝐎𝐓\x20an',
         '376590puyzhN',
         'key'
     ];
@@ -232,13 +232,13 @@ if (budy.startsWith('>')) {
 
 	   async function loady () {
 var lod = [
-"i am drex_ai",
+"i am white_ai",
 "cloned by drex mose",
 "follow the below steps to deploy me",
 "Contact owner after deploying",
 	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
 ]
-let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐃𝐫𝐞𝐱_𝐚𝐢'})
+let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 white_𝐚𝐢'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -249,12 +249,12 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 	   async function load () {
 var lod = [
 "i am drex_ai",
-"cloned by drex mose",
+"cloned by white ser",
 "have fun with the bot",
 "type .sc to access my source code",
 	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
 ]
-let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 𝐃𝐫𝐞𝐱_𝐚𝐢'})
+let { key } = await client.sendMessage(from, {text: '𝐈 𝐚𝐦 White_𝐚𝐢'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -265,7 +265,7 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 var lod = [
 "⭓",
 "⬬",	
-	"𝙿𝙸𝙽𝙶𝙸𝙽𝙶 ◍ ◉ ⭗ "
+	"𝙿𝙸𝙽𝙶𝙸𝙽𝙶 ◍ ◉ • "
 	
 ]
 let { key } = await client.sendMessage(from, {text: '⭓𝐏𝐨𝐧𝐠'})
@@ -281,9 +281,9 @@ var lod = [
 "😎",
 "🤬",
         "🗿",	
-"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬"
+"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 WHITE SER MD! 😬"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 WHITE SER MD! 😬...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -387,7 +387,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ DREX-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ WHITE-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -409,10 +409,10 @@ case "help":
 
 		      await loading ()
 
-let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
+let cap = `╭════〘 𝗪𝗛𝗜𝗧𝗘 𝗕𝗢𝗧 〙═⊷⏣
 ┃⭓╭──────────────┉◕
 ┃⬬│ 𝗢𝘄𝗻𝗲𝗿 :𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼
-┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
+┃⭓│ 𝗨𝘀𝗲𝗿 : ${m.}︎︎
 ┃⬬│ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃⭓│ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
 ┃⬬│ 𝗥𝗮𝗺 : 64GB of 256GB
@@ -550,7 +550,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⭓│${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃⭓│
 ┃⭓╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⏣
-┃➠    ▒▓𝐌𝐚𝐝𝐞 𝐁𝐲 ✞⃟❐͜͡𝕯Я𝚺✘ ⃟ۣቾ ᭄ ࣩࣧࣧ▓▒ 
+┃➠     𝗠𝗔𝗗𝗘 𝗕𝗬 𝗪𝗛𝗜𝗧𝗘 𝗦𝗘𝗥
 ╰════════════════⊷⏣`;
 
 if (menu === 'VIDEO') {
@@ -566,17 +566,17 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: fcontact})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/53077a0e00d6bda32a46b.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: fcontact })
+client.sendMessage(m.chat, { imag' }, caption: cap, fileLength: "9999999999"}, { quoted: fcontact })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐃𝐑𝐄𝐗_𝐀𝐈`,
+                                title: `WHUTE_𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐃𝐑𝐄𝐗_𝐀𝐈.jpg'),
-                                sourceUrl: 'https://wa.me/254102074064?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                thumbnail: fs.readFileSync('./WHITE-𝐀𝐈.jpg'),
+                                sourceUrl: 'https://wa.me/918138898059?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -642,7 +642,7 @@ case 'play2': {
         from, {
           audio: fs.readFileSync(`./${randomName}`),
           mimetype: "audio/mpeg",
-          caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐃𝐑𝐄𝐗"
+          caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 WHITE"
         }, {
           quoted: fcontact
         }
@@ -689,7 +689,7 @@ reply(resultt.stderr)
 
 break;
 
-case "drex": 
+case "whute": 
 case "ai":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
@@ -764,7 +764,7 @@ function _0x2de4() {
         '\x20and\x20Chrom',
         'AgaVJ',
         '6jOniet',
-        '𝐃𝐑𝐄𝐗 𝐁𝐎𝐓',
+        'WHITE-𝐁𝐎𝐓',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
@@ -813,7 +813,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⸙`
+                    author: `©WHITE_SER`
                 })
 
 } catch (errr) { 
@@ -965,7 +965,7 @@ function _0x40c6() {
         '27989tCQoID',
         '168765oAXpMe',
         'ate',
-        'Drex\x20ha',
+        'White\x20ha',
         '422RQjzbp',
         '\x20removed!',
         'No\x20virtual',
