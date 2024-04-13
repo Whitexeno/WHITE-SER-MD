@@ -1,6 +1,6 @@
 # WHITE SER MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WHITE+SER;A+WHATSAPP+BOT;CREATED+BY+WHITE+SER'' alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WHITE+SER;A+WHATSAPP+BOT;CREATED+BY+WHITE+SER'' ="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -78,7 +78,6 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://https://github.com/WHITESER/CWHITE-ai/blob/main/LICENSE)
-
+[MIT License](https://https://github.com/whitexeno/CWHITE-SER-MD/blob/main/LICENSE
 Copyright (c) 2024 WHITE SER MD®
 
