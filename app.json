@@ -1,10 +1,10 @@
 {
-  "name": "drex-ai",
-  "description": "𝐀 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐛𝐨𝐭 𝐜𝐥𝐨𝐧𝐞𝐝 𝐛𝐲 𝐃𝐫𝐞𝐱 𝐌𝐨𝐬𝐞. 𝐓𝐡𝐞 𝐛𝐨𝐭 𝐢𝐬 𝐬𝐭𝐢𝐥𝐥 𝐮𝐧𝐝𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭",
+  "name": "white-ai",
+  "description": "𝐀 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐛𝐨𝐭 𝐜𝐥𝐨𝐧𝐞𝐝 𝐛𝐲 WHITE SER. 𝐓𝐡𝐞 𝐛𝐨𝐭 𝐢𝐬 𝐬𝐭𝐢𝐥𝐥 𝐮𝐧𝐝𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭",
   "keywords": [
     "bot",
     "whatsapp",
-    "dreaded",
+    "white",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/drexmose/drex-ai#readme",
-  "repository": "https://github.com/drexmose/drex-ai.git",
-  "logo": "https://telegra.ph/file/873f7994874e279bd0e55.png",
+  "website": "https://github.com/whitexeno/WHITE-SER-MD#readme",
+  "repository": "https://github.com/whitexeno/WHITE-SER-MD.git",
+  "logo": "https://i.imgur.com/o5nEV73.jpeg.png",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of drex ai Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of white ai Ex: . , / , # , & etc. Put any symbol",
        "required": true
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254102074064, 254729553638 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 918138898059, 9181368 10956 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
